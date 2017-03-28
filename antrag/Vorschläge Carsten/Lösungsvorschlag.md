@@ -1,6 +1,7 @@
-Die Probleme der Diskussionskultur können nicht allein teschnisch gelöst werden, aber geeignete Technik bzw. Software kann basierend auf den bisherigen Erfahrungen einen wichtigen Beitrag zur Verbesserung leisten.
+- Probleme der Diskussionskultur nicht allein technisch zu lösen
+- geeignete (basierend auf bisherigen Erfahrungen) Software kann Beitrag zur Verbesserung leisten
 
-Inspiriert von der Plattform http://brabbl.com soll ein Webservice entwickelt werden, dessen Merkmale konstruktive Diskussionen fördern bzw. das "Abgleiten" erschweren.
+Es soll ein Webservice entwickelt werden, dessen Merkmale konstruktive Diskussionen fördern bzw. das "Abgleiten" erschweren.
 
 Key-Features:
 - Kategorisierung der Diskussions-Beiträge in Meiungsbeitrag, Pro-Argument, Gegen-Argument, Frage

@@ -18,7 +18,7 @@ Durch eine geschickte Architektur sollen Probleme der "Sozialen Netzwerke" (Filt
 *Wer ist die Zielgruppe? Wie profitiert sie vom Projekt?*  
 
  1. Gruppen mit flacher Hierarchie (Firma, Verein, Schulklasse, ...), die zu einer gemeisam getragenen Entscheidung kommen müssen, und nicht wollen, dass die aktiveren und eloquenteren Redner*innen die anderen manipulieren können.  
- 2. Kommentarfunktionen zu einem Artikel/Blog.  
+ 2. Betreiber*innen von Onlinemedien (Blogs etc.), für die Kommentarfuktion.  
 
 Potentielle Nutzer*innen können:
  - den Dienst auf unserem Server ausprobieren bis sie sich eine Meinung über die Nützlichkeit gebildet haben.

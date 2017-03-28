@@ -1,8 +1,11 @@
 *Welches Problem willst Du mit Deinem Projekt lösen?*
 
-Die Polarisierung der Gesellschaft in Lager, die nicht sachlich miteinander diskutieren können, wird immer deutlicher. Das Phänomen scheint paradoxerweise durch die steigende Vernetzung im Web noch verstärkt zu werden - statt besserem Zugang zur Ansicht anderer bilden sich Filterblasen, die die eigene Weltanschuung bestärken.   
-Der Effekt tritt in "shitstorms" in den "Sozialen Netzwerken" zutage, oder bei Kommentaren von Artikeln/Videos/Blogs. Gerade durch die emotionale Aufladung politischer Themen der letzten Jahre.  
-Es ist plausibel, dass diese durch die Digitalisierung erzeugte Wirkung nicht im digitalen beschränkt bleibt, auf andere Lebensbereiche zurückwikt, und Gewaltpotential birgt.  
+ - Polarisierung der Gesellschaft in Lager, die nicht sachlich miteinander diskutieren können. 
+ - Sie scheint paradoxerweise durch die Vernetzung im Web noch verstärkt zu werden - statt besserem Zugang zur Ansicht anderer bilden sich Filterblasen, die die eigene Weltanschuung bestärken.
+ - zu sehen in "shitstorms" in den "Sozialen Netzwerken" zutage, oder bei Kommentaren von Artikeln/Videos/Blogs. 
+ - hohe emotionale Aufladung politischer Themen der letzten Jahre.
+ - die Wirkung wird in der digitalen Welt erzeugt, kann aber auf andere Lebensbereiche zurückwiken -> Gewaltpotential.
+ - Grund: Verlust der Übersicht durch zu viele Meinungsbeiträge, chronologische Sortierung unzweckmäßig -> psychische Filter zusätzlich zu den technischen.
 
 *Wie wird Dein Projekt dieses Problem lösen?*  
 

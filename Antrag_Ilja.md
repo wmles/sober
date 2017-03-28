@@ -13,13 +13,18 @@ Wir hoffen, dass man zur Lösung des Problems _auch_ durch technische Lösungen 
 Viele Diskussionen sind in der persönlichen Begegnung angenehmer und fruchtbarer. Aber auch der digitale Austausch aus der Ferne bietet neue Chancen und Möglichkeiten - die es optimal zu nutzen gilt!  
 Das Konzept einer "Mind Map", die die Fülle der vorhandenen Argumente und deren Verknüpfungen übersichtlich darstellen soll, lässt sich im Digitalen besonders flexibel einsetzen; eine solche Übersicht lässt sich jederzeit erweitern und bequem speichern.  
 Vorbilder der gelungenen Wissensanordnung im Internet sind Wikipedia und Stack Overflow. Beide versuchen "opinion-based"-Themen fernzuhalten. Diese Leerstelle soll unser Projekt adressieren. Als Vorbild kann die Idee von http://open.brabbl.com/ dienen, wobei eine Open-Source-Implementation die Hürden der breiteren Nutzung verringern würde.  
-Durch eine geschickte Architektur sollen Probleme der "Sozialen Netzwerke" (Filterblasen) und der persönlichen Diskussion (vorschnelles Reinreden, Rechthabenwollen) umgangen werden. Dadurch können die Teilnehmer*_INNEN einer Diskussion zu einem Konsens kommen oder auch eine gut verstandene Uneinigkeit sachlich und wertneutral stehen lassen.  
+Durch eine geschickte Architektur sollen Probleme der "Sozialen Netzwerke" (Filterblasen) und der persönlichen Diskussion (vorschnelles Reinreden, Rechthabenwollen) umgangen werden. Dadurch können die Teilnehmer*innen einer Diskussion zu einem Konsens kommen oder auch eine gut verstandene Uneinigkeit sachlich und wertneutral stehen lassen.  
 
 *Wer ist die Zielgruppe? Wie profitiert sie vom Projekt?*  
 
- 1. Profitieren können einerseits Gruppen mit flacher Hierarchie (ob Firma, Verein, Schulklasse, ...), die zu einer gemeisam getragenen Entscheidung kommen müssen, und nicht wollen, dass die aktiveren und eloquenteren Redner_*INNEN die anderen manipulieren können.  
- 2. Andererseits wird die Lösung bei rein theoretischen Fragestellungen helfen, einem umfassenden und übersichtlichen Verständnis des Problems näher zu kommen. Etwa bei Umfragen (sonst müssen Rückmeldungen, die differenzierter sind als multiple-choice-Antworten aufwändig, und vor allem voreingenommen, sortiert werden.) oder in Diskussionsforen.  
- 3. Eine Mischung der beiden Formen ist die Kommentarfunktion zu einem Artikel/Blog.
+ 1. Gruppen mit flacher Hierarchie (Firma, Verein, Schulklasse, ...), die zu einer gemeisam getragenen Entscheidung kommen müssen, und nicht wollen, dass die aktiveren und eloquenteren Redner*innen die anderen manipulieren können.  
+ 2. Kommentarfunktionen zu einem Artikel/Blog.  
+
+Potentielle Nutzer*innen können:
+ - den Dienst auf unserem Server ausprobieren bis sie sich eine Meinung über die Nützlichkeit gebildet haben.
+ - unsere App in ihrem Projekt einbinden, falls dieses in einem python-framework geschrieben ist.
+ - ein vorgefertigtes (standalone-)django-Projekt installieren (root-Server vorausgesetzt)
+ - Komponenten (Konzept, css, js, Datenbanklayout) in eigenen Projekten übernehmen.
 
 *Skizziere kurz die wichtigsten Meilensteine, die Du/Ihr im Förderzeitraum umsetzen willst/wollt.*
 

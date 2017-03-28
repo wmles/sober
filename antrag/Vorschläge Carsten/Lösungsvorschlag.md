@@ -1,7 +1,7 @@
 - Probleme der Diskussionskultur nicht allein technisch zu lösen
 - geeignete (basierend auf bisherigen Erfahrungen) Software kann Beitrag zur Verbesserung leisten
 
-Es soll ein Webservice entwickelt werden, dessen Merkmale konstruktive Diskussionen fördern bzw. das "Abgleiten" erschweren.
+Es wird ein Webservice entwickelt, der konstruktive Diskussionen fördert bzw. das "Abgleiten" erschwert.
 
 Key-Features:
 - Kategorisierung der Diskussions-Beiträge in Meiungsbeitrag, Pro-Argument, Gegen-Argument, Frage
@@ -14,3 +14,5 @@ Key-Features:
 - Klar formulierte und eingeforderte Diskussionsregeln (Was sind überzeugende Argumente, gegenseitiger Respekt,... )
 - Optionales Ausblenden der Urheberschaft um "sozialen Druck" zu entschärfen
 - Datensparsame Erfassung von Nutzer*innen-Daten
+- !!Verweis auf Bild
+

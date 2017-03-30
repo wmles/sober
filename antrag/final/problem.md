@@ -1,6 +1,6 @@
- - Zunehmende Polarisierung der Gesellschaft in Lager, die nur noch schwer sachlich miteinander diskutieren können
- - Effekt paradoxerweise durch Web  verstärkt: Statt besserem Zugang zur Perspektive anderer Bildung von Filterblasen
- - Auch in eigentlich kooperativen Gruppen eskalierende Diskussionen
- - Bsp: "Shitstorms" in Sozialen Netzwerken, "Flamewars" in Mailinglisten oder in Kommentaren von Artikeln/Blogs
- - Hohe emotionale Aufladung komplexer Themen -> Kompromisse schwieriger
- - Gründe: Verlust der Übersicht durch zu viele Meinungsbeiträge, chronologische Sortierung unzweckmäßig, Argumentationen oft schwer nachvollziehbar, Verbreitete Respektlosigkeit, Moderation aufwendig und problematisch
+- Zunehmende Polarisierung der Gesellschaft in Lager, die kaum noch sachlich miteinander diskutieren können
+- Effekt paradoxerweise durch Web  verstärkt: Statt besserem Zugang zu anderen Perspektiven Bildung von Filterblasen
+- "Shitstorms und Flamewars" in sozialen Netzen, Mailinglisten oder Kommentaren zu Artikeln/Blogs
+- Starke emotionale Aufladung komplexer Themen -> Kompromisse schwieriger
+- Eskalierende/unproduktive Diskussionen auch in kooperativen Gruppen/Vereinen
+- Gründe: Verlust der Übersicht durch zu viele Meinungsbeiträge, chronologische Sortierung unzweckmäßig, Argumentationen oft schwer nachvollziehbar, Verwechslung inhaltlicher und persönlicher Kritik, Moderation problematisch

@@ -1,18 +1,21 @@
-- Probleme der Diskussionskultur nicht allein technisch zu lösen
-- geeignete (basierend auf bisherigen Erfahrungen) Software kann Beitrag zur Verbesserung leisten
+- Probleme der Diskussionskultur nicht allein technisch lösbar
+- Aber: geeignete (basierend auf bisherigen Erfahrungen) Software kann Beitrag zur Verbesserung leisten
 
-Es wird ein Webservice entwickelt, der konstruktive Diskussionen fördert bzw. das "Abgleiten" erschwert.
+-> Entwicklung eines Webservice, der konstruktive und nachvollziehbare Diskussionen fördert bzw. das "Eskalieren" erschwert
 
 Key-Features:
-- Kategorisierung der Diskussions-Beiträge in Meiungsbeitrag, Pro-Argument, Gegen-Argument, Frage
+- Kategorisierung der Diskussionsbeiträge in: Meinung, Pro-Argument, Gegen-Argument und Frage
 - Bewertung der Beiträge nach Überzeugungskraft
-- Redundanzvermeidung durch Peer-Review
-- Einfaches Zitieren/Verweisen auf andere Beiträge und externe Quellen
+- Redundanzvermeidung und Moderation durch Peer-Review (inspiriert von http://stackexchange.com)
+- Einfaches Zitieren/Verweisen anderer Beiträge und externer Quellen
 - Jeder Beitrag kann Ausgangspunkt einer neuen Diskussion sein -> Baum-Struktur -> klare Bezüge
-- Übersichtliche Standard-Darstellung der Beiträge und Meta-Informationen
-- Weitere Ansichten z.B. Baum-Überblick oder Pro vs. Contra (wie bei http://brabbl.com)
+- Übersichtliche Standard-Darstellung (http://kurzlink.de/sober)
+- Weitere Ansichten z.B. "Baum-Überblick" oder "Pro-vs.-Kontra" (wie bei http://brabbl.com)
 - Klar formulierte und eingeforderte Diskussionsregeln (Was sind überzeugende Argumente, gegenseitiger Respekt,... )
 - Optionales Ausblenden der Urheberschaft um "sozialen Druck" zu entschärfen
-- Datensparsame Erfassung von Nutzer*innen-Daten
-- !!Verweis auf Bild
+- Mailintegration
+- Datensparsamkeit
 
+Annahmen:
+- Die Mehrheit der Teilnehmer*innen ist prinzipiell Willens und fähig zu konstruktiver Diskussion
+- (fehlende) Features beeinflussen Kommunikationsmechanik (z.B. Selbstreflexion)

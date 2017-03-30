@@ -1,0 +1,6 @@
+- Entwurf des User-Interface (inkl. Feedbackphase)
+- Basisfunktionalität (Beiträge, Standardansicht)
+- Deployment der Demo-Plattform
+- Peer-Review-Funktionalität (Bewertung, Flags (Regelverstoß, Redundaz))
+- Weitere Ansichten (Baum-Übersicht, Pro-vs.-Contra)
+- Mailintegration

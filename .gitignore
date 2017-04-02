@@ -1,5 +1,5 @@
-/venv/
+sober/venv/
 *.*~
 *.pyc
 __pycache__/
-/static/
+sober/static/

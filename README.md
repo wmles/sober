@@ -2,7 +2,7 @@
 Web-Dienst für konstruktive Diskussionen
  
 Diese Datei enthält die Kurzbeschreibung des Projekts basierend auf einem Antrag zum [Prototypefund](https://prototypefund.de)
-der [OpenKnowledge Foundation](https://okfn.de/) sowie weitere Informationen (z.B. Entwürfe für das UI-Design).
+der [OpenKnowledge Foundation](https://okfn.de/) sowie weitere Informationen (z.B. [Entwürfe für das UI-Design](#darstellung)).
 
 ## Problem
 - Zunehmende Polarisierung der Gesellschaft in Lager, die kaum noch sachlich miteinander diskutieren können
@@ -38,6 +38,7 @@ der [OpenKnowledge Foundation](https://okfn.de/) sowie weitere Informationen (z.
 - (fehlende) Features beeinflussen Kommunikationsmechanik (z.B. Selbstreflexion)
 
 ## Darstellung
+<a name="Darstellung"></a>
 
 - Viele Kommunikations/Diskussionsplattformen leiden unter Unübersichtlichkeit
 - Negativbeispiele:

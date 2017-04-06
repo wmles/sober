@@ -6,7 +6,7 @@ der [OpenKnowledge Foundation](https://okfn.de/) sowie weitere Informationen (z.
 
 ## Problem
 - Zunehmende Polarisierung der Gesellschaft in Lager, die kaum noch sachlich miteinander diskutieren können
-- Effekt paradoxerweise durch Web  verstärkt: Statt besserem Zugang zu anderen Perspektiven Bildung von Echokammern/Filterblasen
+- Effekt paradoxerweise durch Web verstärkt: Statt besserem Zugang zu anderen Perspektiven kommt es zu Bildung von Echokammern/Filterblasen
 - "Shitstorms und Flamewars" in sozialen Netzen, Mailinglisten oder Kommentaren
 - Starke emotionale Aufladung komplexer Themen → Kompromisse schwieriger
 - Eskalierende/unproduktive Diskussionen auch in kooperativen Gruppen/Vereinen

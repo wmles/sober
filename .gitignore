@@ -1,6 +1,0 @@
-sober/venv/
-*.*~
-*.pyc
-__pycache__/
-sober/static/
-db.sqlite3
